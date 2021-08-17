@@ -56,6 +56,5 @@ public class getMaxWindow {
         for (int i = 0; i < res2.length; i++) {
             System.out.println(res2[i]);
         }
-
     }
 }
